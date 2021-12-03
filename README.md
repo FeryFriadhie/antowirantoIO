@@ -1,14 +1,14 @@
 # Hello I'am Anto Wiranto👋
 
 ![Laravel](https://img.shields.io/badge/Laravel-Intermediate-red)
-![ReactJS](https://img.shields.io/badge/ReactJS-Intermediate-blue)
+![ReactJS](https://img.shields.io/badge/ReactJS-Learning-blue)
 ![HTML](https://img.shields.io/badge/HTML-Expert-orange)
 ![CSS](https://img.shields.io/badge/CSS-Intermediate-lightblue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-lightgrey)
+![TypeScript](https://img.shields.io/badge/TypeScript-Learning-lightgrey)
 ![PHP](https://img.shields.io/badge/PHP-Intermediate-grey)
-![VueJS](https://img.shields.io/badge/VueJS-Intermediate-green)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Intermediate-teal)
+![VueJS](https://img.shields.io/badge/VueJS-Beginer-green)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Learning-teal)
 
 Hallo nama saya Anto Wiranto saya seorang pelajar di SMKN 1 CIAMIS dengan Jurusan Rekayasa Perangkat Lunak, 
 Saya juga sering membagikan resource tentang coding di Programify
