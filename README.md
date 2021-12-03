@@ -1,4 +1,4 @@
-# Hello 👋
+# Hello I'am Anto Wiranto👋
 
 ![Laravel](https://img.shields.io/badge/Laravel-Intermediate-red)
 ![ReactJS](https://img.shields.io/badge/ReactJS-Intermediate-blue)
@@ -18,3 +18,7 @@ Hallo nama saya Anto Wiranto saya seorang pelajar di SMKN 1 CIAMIS dengan Jurusa
 - ⚙️ Mastering: `.html`,`.css`,`.js`,`.ts`,`.cpp`,`.java`
 - 👯 I’m looking to collaborate on **Open Source**  projects
 - 💬 I'm mostly active within the **Laravel**, **ReactJS**, **Tailwindcss** and **Javascript** communities
+
+## 📊 My Stats
+
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=antowirantoIO"/>
