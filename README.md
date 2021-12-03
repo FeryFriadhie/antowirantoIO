@@ -10,6 +10,8 @@
 ![VueJS](https://img.shields.io/badge/VueJS-Intermediate-green)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Intermediate-teal)
 
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=antowirantoIO"/>
+<br>
 Hallo nama saya Anto Wiranto saya seorang pelajar di SMKN 1 CIAMIS dengan Jurusan Rekayasa Perangkat Lunak, Saya juga sering membagikan resource tentang coding di [Programify_](https://www.instagram.com/programify_)
 
 - 🔭 Bachelor's degree in **Computer Science** at UniBo
