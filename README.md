@@ -10,6 +10,7 @@
 ![VueJS](https://img.shields.io/badge/VueJS-Beginer-green)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Learning-teal)
 
+<img src="https://www.codewars.com/users/antowirantoIO/badges/large">
 Hallo nama saya Anto Wiranto saya seorang pelajar di SMKN 1 CIAMIS dengan Jurusan Rekayasa Perangkat Lunak, 
 Saya juga sering membagikan resource tentang coding di Programify
 
