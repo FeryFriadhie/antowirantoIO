@@ -10,7 +10,6 @@
 ![VueJS](https://img.shields.io/badge/VueJS-Beginer-green)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Learning-teal)
 
-<img src="https://www.codewars.com/users/antowirantoIO/badges/large">
 Hallo nama saya Anto Wiranto saya seorang pelajar di SMKN 1 CIAMIS dengan Jurusan Rekayasa Perangkat Lunak, 
 Saya juga sering membagikan resource tentang coding di Programify
 
@@ -21,6 +20,8 @@ Saya juga sering membagikan resource tentang coding di Programify
 - 👯 I’m looking to collaborate on **Open Source**  projects
 - 💬 I'm mostly active within the **Laravel**, **ReactJS**, **Tailwindcss** and **Javascript** communities
 
-## 📊 My Stats
+## My Github stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antowirantoIO&show_icons=true)
 
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=antowirantoIO"/>
+## Most used language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antowirantoIO)](https://github.com/antowiranto)
